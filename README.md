@@ -20,6 +20,7 @@ Formats for many kinds of math, possibly based on courses I took recently.
 ## Rationale
 Prettier text-mode output for programs.
 > Who doesn't love lynx?
+
 Formatting for plaintext documents.
 > All my class notes are text files. Using a markup language lets the user quickly define complex, odd, or rare elements/structures with a normal keyboard, w\o relying on copy-pasting special symbols.
 
