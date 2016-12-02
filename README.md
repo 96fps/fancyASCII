@@ -1,7 +1,6 @@
 # fancyASCII
 A monospaced document formatter.
-
-*\*-ASCII part of the name is a misnomer, as it can make heavy use of monospaced unicode characters.*
+The ASCII part of the name is potentially a misnomer, as using unicode for math-symbols etc is useful.
 
 ## Wait, What?
 FancyASCII intends to be many things.
