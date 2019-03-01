@@ -1,7 +1,8 @@
 **This project is on indefinite hold.**
 
 The idea to use ANSII escape codes and unicode symbols for equation formatting is appealing, but terminal support is just not what you'd wish it to be.
-As a test I wrote `quad.sh` to print manually converted forms of the quadratic formula using uncode + ansii escape code.
+
+I wrote `quad.sh` as a test of terminal features. It prints a few variants of a manually converted forms of the quadratic formula.
 
 ![Quadratic formula](quadratic.png)
 
