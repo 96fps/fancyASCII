@@ -1,3 +1,17 @@
+**This project is on indefinite hold.**
+
+The idea to use ANSII escape codes and unicode symbols for equation formatting is appealing, but terminal support is just not what you'd wish it to be.
+As a test I tried to convert the quadratic formula to this format by hand.
+![Quadratic formula](quadratic.png)
+The results were very mixed.
+![examples](terminal.png)
+![clunky but readable](best.png)
+![mess of missing symbols](worst.png)
+
+These tests are created by running `quad.sh`.
+
+_Old description remains below for archiving reasons._
+
 # fancyASCII
 A monospaced document formatter.
 The ASCII part of the name is potentially a misnomer, as using unicode for math-symbols etc is useful.
