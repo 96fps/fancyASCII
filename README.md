@@ -1,19 +1,13 @@
 **This project is on indefinite hold.**
 
 The idea to use ANSII escape codes and unicode symbols for equation formatting is appealing, but terminal support is just not what you'd wish it to be.
-As a test I tried to manually convert the quadratic formula to uncode + ansii escape code.
+As a test I wrote `quad.sh` to print manually converted forms of the quadratic formula using uncode + ansii escape code.
 
 ![Quadratic formula](quadratic.png)
 
-The results were mixed.
-
 ![examples](terminal.png)
 
-Best: ![clunky but readable](best.png)
-
-Worst: ![mess of missing symbols](worst.png)
-
-(These tests are what `quad.sh` prints).
+On the left with poor unicode support is the default WSL terminal, on the right is [Mintty](https://github.com/mintty/wsltty).
 
 _Old description remains below for archiving reasons._
 
