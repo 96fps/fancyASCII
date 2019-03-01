@@ -9,11 +9,11 @@ The results were mixed.
 
 ![examples](terminal.png)
 
-![clunky but readable](best.png)
+Best: ![clunky but readable](best.png)
 
-![mess of missing symbols](worst.png)
+Worst: ![mess of missing symbols](worst.png)
 
-These tests are created by running `quad.sh`.
+(These tests are what `quad.sh` prints).
 
 _Old description remains below for archiving reasons._
 
